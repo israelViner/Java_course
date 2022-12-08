@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=question5_queue
+comment1.params=q1
+comment1.target=java.util.Queue\ changeHalfQueue(java.util.Queue)
+numComments=2

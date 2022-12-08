@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=search_stack
+comment1.params=s1\ num
+comment1.target=int\ numInStack(stack_array,\ int)
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=stack_array
+comment1.params=size
+comment1.target=stack_array(int)
+comment2.params=x
+comment2.target=boolean\ push(Node)
+comment3.params=
+comment3.target=Node\ pop()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+numComments=5

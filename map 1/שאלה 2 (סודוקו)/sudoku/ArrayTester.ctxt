@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ArrayTester
+comment1.params=
+comment1.target=ArrayTester()
+comment2.params=matrix\ c
+comment2.target=int[]\ getColumn(int[][],\ int)
+comment3.params=arr
+comment3.target=boolean\ containDuplicates(int[])
+comment4.params=a\ b
+comment4.target=boolean\ comparingArrays(int[],\ int[])
+comment5.params=matrix
+comment5.target=boolean\ hasAllValues(int[][])
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=question1_specialNumber
+comment1.params=number
+comment1.target=int\ oppositeNumber(int)
+comment2.params=a
+comment2.target=boolean\ intSqrt(int)
+comment3.params=number
+comment3.target=boolean\ special(int)
+numComments=4

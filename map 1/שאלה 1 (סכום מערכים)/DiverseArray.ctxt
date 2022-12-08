@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DiverseArray
+comment1.params=arr
+comment1.target=int\ arraySum(int[])
+comment2.params=arr2D
+comment2.target=int[]\ rowSums(int[][])
+comment3.params=arr2D
+comment3.target=boolean\ isDiverse(int[][])
+numComments=4

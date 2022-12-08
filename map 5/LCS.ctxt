@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LCS
+comment1.params=A\ B
+comment1.target=int\ LCS(char[],\ char[])
+comment2.params=arr1\ arr2\ matrix
+comment2.target=void\ longestCommonSubsequence1(char[],\ char[],\ int[][])
+numComments=3

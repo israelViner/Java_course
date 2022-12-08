@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=question3_crossArray
+comment1.params=arr
+comment1.target=int[]\ crossSort(int[])
+comment2.params=arr\ x
+comment2.target=int\ binariSearch(int[],\ int)
+numComments=3

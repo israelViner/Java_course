@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RouteChiper
+comment1.params=str
+comment1.target=RouteChiper(java.lang.String)
+comment2.params=str
+comment2.target=java.lang.String[][]\ fillBlock(java.lang.String)
+comment3.params=letterBlock
+comment3.target=java.lang.String\ encryptBlock(java.lang.String[][])
+comment4.params=
+comment4.target=java.lang.String\ encryptMassage()
+numComments=5

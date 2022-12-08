@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=cutRod
+comment1.params=price\ n
+comment1.target=int\ cutRod(int[],\ int)
+numComments=2
